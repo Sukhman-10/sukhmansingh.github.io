@@ -1,112 +1,126 @@
-🚀 Sukhman Singh – Data Analyst Portfolio
+# 🚀 Sukhman Singh – Data Analyst Portfolio  
+[🌐 **Visit Live Portfolio**](https://sukhman-10.github.io/)
 
-🌐 Visit Live Portfolio
+---
 
-👋 About Me
+## 👋 About Me  
+I’m **Sukhman Singh**, a passionate **Data Analyst** with 2+ years of experience based in **London, UK**.  
+With a **Master’s in Business Analytics** and strong expertise in **SQL, Python, data visualization, statistical modelling, and machine learning**,  
+I help businesses uncover insights and make data-driven decisions.
 
-I’m Sukhman Singh, a passionate Data Analyst with 2+ years of experience based in London, UK. With a Master’s in Business Analytics and a strong background in SQL, Python, data visualization, statistical modelling and machine learning, I help businesses uncover insights and make data-driven decisions.
+💡 **Specialties / Skills:**  
+- SQL (95%)  
+- Python (85%)  
+- Data Visualization (90%)  
+- Statistical Analysis (85%)  
+- Machine Learning (70%)  
+- BI Tools: Power BI, Tableau, Looker  
+- Cloud, PySpark, Excel, Git, JIRA, Google Analytics, SEO  
 
-💡 Specialties/Skills:
+🌍 **Domains of Expertise:** Retail, E-commerce, BFSI (Banking/Financial Services & Insurance), Digital Marketing  
+📚 **Languages:** English & Hindi  
+🎯 **Interests:** Travel, Photography, Teaching  
 
-SQL (95%)
+---
 
-Python (85%)
+## 🧩 What I Do  
+I provide **full-stack freelance analytics services** — from raw data connection and cleaning, through statistical analysis and modelling,  
+to creating interactive dashboards and delivering actionable insights.  
 
-Data Visualization (90%)
+**Services include:**  
+- Data connection & cleaning (Excel, SQL, CSV)  
+- Statistical Analysis (correlation, t-test, ANOVA, regression)  
+- Interactive dashboards (Tableau / Power BI)  
+- KPI definition and metrics tracking  
+- Custom visuals, filters and dashboards  
+- Insight summary/report with recommendations  
 
-Statistical Analysis (85%)
+---
 
-Machine Learning (70%)
+## 🔍 Selected Projects  
 
-BI Tools: Power BI, Tableau, Looker
+### 1. 🏥 NHS Operational Analysis  
+A deep dive into operational data for the **National Health Service (NHS)**.  
+Analysed waiting-times, resource allocation, hospital performance metrics, and patient flow  
+to help identify bottlenecks and optimise healthcare delivery.
 
-Cloud, PySpark, Excel, Git, JIRA, Google Analytics, SEO
+📊 **Highlights:**  
+- Explored 100k+ records of healthcare data.  
+- Built interactive dashboards for visual insights.  
+- Delivered actionable recommendations for efficiency.  
 
-🌍 Domains of Expertise: Retail, E-commerce, BFSI (Banking/Financial Services & Insurance), Digital Marketing
-📚 Languages: English & Hindi
-🎯 Interests: Travel, Photography, Teaching
+![NHS Dashboard](https://www.differentia.consulting/qlik/wp-content/uploads/2016/02/NHS-Dashboard.jpg)
 
-🧩 What I Do
+---
 
-I provide full-stack freelance analytics services, from raw data connection and cleaning, through statistical analysis and modelling, to creating interactive dashboards and delivering actionable insights.
-Services include:
+### 2. 🍕 Pizza Sales Dashboard  
+Built an interactive dashboard analysing pizza orders by **day, hour, category, and size**.  
+The dashboard reveals **revenue trends, busiest time-slots, top-selling categories**, and  
+helps the business optimise operations and pricing strategy.
 
-Data connection & cleaning (Excel, SQL, CSV)
+📊 **Highlights:**  
+- Used Power BI for an interactive sales dashboard.  
+- Tracked total revenue, popular items & order frequency.  
+- Suggested data-driven marketing strategies.
 
-Statistical Analysis (correlation, t-test, ANOVA, regression)
+![Pizza Dashboard](https://public.tableau.com/static/images/Pi/PizzaSalesDashboard_16984639777360/Home/4_3.png)
 
-Interactive dashboards (Tableau / Power BI)
+---
 
-KPI definition and metrics tracking
+### 3. 🏬 Superstore Sales Analysis  
+Used the “Superstore” dataset to apply **statistical tests (t-tests, ANOVA)**, **factor analysis**  
+and **clustering** to segment customers and identify sales drivers.  
+Visualised results via dashboards to support **strategic retail decision-making**.
 
-Custom visuals, filters and dashboards
+📊 **Highlights:**  
+- Performed end-to-end data cleaning & feature engineering.  
+- Identified KPIs influencing customer retention.  
+- Created an executive-level Tableau dashboard.
 
-Insight summary/report with recommendations
+![Superstore Dashboard](https://playfairdata.com/wp-content/uploads/2023/03/Final-Dashboard-e1680535341542.png)
 
-🔍 Selected Projects
+---
 
-Here are three standout projects demonstrating my analytical toolkit and business-impact focus:
+## 🎯 What I’m Looking For  
+I’m eager to **collaborate with more clients and businesses** who need actionable analytics,  
+visualization, and insights to drive growth.  
 
-1. NHS Operational Analysis
-6
+Whether you’re a **startup**, **SME**, or **enterprise**, if you have data and want to turn it into value — **let’s talk!**
 
-A deep dive into operational data for the National Health Service (NHS). I analysed waiting-times, resource allocation, hospital performance metrics, and patient flow to help identify bottlenecks and optimise healthcare delivery.
+📬 **How I can help:**  
+- Clean and connect your data  
+- Analyse and model for insights  
+- Visualise and build interactive dashboards  
+- Translate analytics into business strategy  
 
-2. Pizza Sales Dashboard
-6
+📩 **Email:** sukhmansinghfb12@gmail.com  
+🔗 **LinkedIn / GitHub:** Links available on my portfolio  
 
-I built an interactive dashboard analysing pizza orders by day, hour, category and size. The dashboard reveals revenue trends, busiest time-slots, top-selling categories and helps the business optimise operations and menu/pricing strategy.
+---
 
-3. Superstore Sales Analysis
-6
+## 🔧 Tech & Tools  
+🧠 SQL • 🐍 Python (pandas, NumPy, scikit-learn)  
+📊 Tableau • Power BI • Looker  
+🧾 Excel • PySpark • Git • JIRA  
+📈 Google Analytics • SEO Tools  
+☁️ Cloud Platforms & Data Pipelines  
 
-Using the “Superstore” dataset, I applied statistical tests (t-tests, ANOVA), factor analysis and clustering to segment customers and identify sales drivers. Then visualised results via dashboards to support strategic decision-making in retail.
+---
 
-🎯 What I’m Looking For
+## 💬 Let’s Connect  
+I’d love to hear about your data challenges — whether it’s dashboarding, deeper analytics, predictive modelling,  
+or building data-literacy across your team.  
 
-I’m eager to collaborate with more clients and businesses who need actionable analytics, visualization and insights to drive growth. Whether you’re a startup, SME or large organisation—if you have data and want to turn it into value, let’s talk!
-I can help you:
+Let’s turn your **data into insight**, and your **insight into action**.
 
-Clean and connect your data
+---
 
-Analyse and model for insights
+**Cheers,**  
+🧑‍💻 *Sukhman Singh*  
+📍 *London, UK*  
+✉️ *sukhmansinghfb12@gmail.com*  
 
-Visualise and build interactive dashboards
+---
 
-Translate analytics into business strategy
-
-📩 Reach out via email: sukhmansinghfb12@gmail.com
- or find me on LinkedIn/GitHub (links in my portfolio) — let's explore how we can partner to unlock your data’s potential.
-
-📂 How to Use This Portfolio
-
-Head to the “Projects” section to explore detailed case-studies and GitHub repos.
-
-Visit “Services” for full breakdown of what I offer.
-
-“Contact” section is where you’ll get in touch with me directly.
-
-Interested? Send me a brief of your challenge and let’s see how we can add value.
-
-🔧 Tech & Tools
-
-Some of the tools I use regularly:
-
-SQL & Python (pandas, NumPy, scikit-learn)
-
-Tableau / Power BI / Looker
-
-Excel, PySpark, Git, JIRA
-
-Google Analytics, SEO tools
-
-Cloud platforms & data pipelines
-
-💬 Let’s Connect
-
-I’d love to hear about your data challenges—whether it’s dashboarding, deeper analytics, predictive modelling or just building data-literacy.
-Let’s turn your data into insight, and your insight into action.
-
-Cheers,
-Sukhman Singh
-📍 London, UK
+> *(This README accompanies your portfolio website — showcasing your brand, expertise, and projects in an engaging way.  
+> You can further customize it with personal branding colours, logos, and animations.)*
